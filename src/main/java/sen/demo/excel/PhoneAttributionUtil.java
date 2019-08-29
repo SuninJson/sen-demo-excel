@@ -5,6 +5,6 @@ package sen.demo.excel;
  */
 public class PhoneAttributionUtil {
     public static void main(String[] args) {
-        System.out.println(ExcelTool.getCity("15775916647"));
+        System.out.println(ExcelPhoneNumberHandler.getCity("15775916647"));
     }
 }

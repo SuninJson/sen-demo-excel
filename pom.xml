@@ -53,6 +53,13 @@
             <artifactId>libphonenumber</artifactId>
             <version>8.9.14</version>
         </dependency>
+
+        <!--myself util-->
+        <dependency>
+            <groupId>sen-common</groupId>
+            <artifactId>util</artifactId>
+            <version>0.0.1</version>
+        </dependency>
     </dependencies>
 
 </project>
